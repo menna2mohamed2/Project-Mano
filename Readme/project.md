@@ -14,7 +14,7 @@ This project 8- Bit Not 16_Bit.
 This Project Implement 11 Instruction.
 
 # Video of Mano's project :
-https://drive.google.com/file/d/1GzXE2A1lXnZ4v4YBQ9bc7Ru6HReMPOZ3/view?usp=sharing
+https://www.dropbox.com/scl/fi/6raagp1quypmgxa3uy9zv/vedio-project.mp4?rlkey=saqqm6uly78iu3rsxa1qpbk2j&st=ij8z8mhx&dl=0
 
 # What does the project implement?
 Memory Reference 
